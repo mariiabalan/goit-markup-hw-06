@@ -128,12 +128,12 @@ color: #2e2f42;
 }
 
 .carrent{
-    /* position: relative;
-    color: #404bbf;; */
+    position: relative;
+    color: #404bbf;;
 }
 
 .carrent::after{
-    /* content: "";
+    content: "";
     position: absolute;
     left: 0;
     bottom: -1px;
@@ -142,7 +142,7 @@ color: #2e2f42;
     height: 4px;
     width: 100%;
     background-color: #404bbf;
-} */
+}
 
 .header-menu-link:hover,
 .header-menu-link:focus{
